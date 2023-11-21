@@ -1,0 +1,56 @@
+"Hallo, hoe gaat het met jou",Dutch 
+"Hey comment allez-vous",French"
+"ഹായ്, സുഖമാണോ",Malayalam
+"ഒരു സംഭാഷണം നടത്താൻ ആഗ്രഹിക്കുന്നു",Malayalam
+"je veux avoir une conversation",French
+"möchte ein Gespräch führen",German
+"ಸಂವಾದ ನಡೆಸಲು ಬಯಸುತ್ತೇನೆ",Kannada
+"أريد إجراء محادثة",Arabic
+"wil een gesprek hebben",Dutch
+"laten we gaan dineren",Dutch
+"let's have dinner",English
+"நான் srmap கல்லூரியில் படிக்கிறேன்",Tamil
+"hey biraz su almak istiyorum",Turkish
+"Ik stond op het punt om deze zomer te gaan spelen",Dutch
+"j'étais sous le soleil ce matin-là et je l'ai vu lancer un couteau sur le chat",French
+"ಆ ದಿನ ಬೆಳಿಗ್ಗೆ ನಾನು ಸೂರ್ಯನ ಕೆಳಗೆ ಇದ್ದೆ ಮತ್ತು ಅವನು ಬೆಕ್ಕಿನ ಮೇಲೆ ಚಾಕುವನ್ನು ಎಸೆಯುವುದನ್ನು ನಾನು ನೋಡಿದೆ",Kannada
+"நான் சொர்க்கத்தில் நடந்து கொண்டிருந்தேன்",Tamil
+"Yoo whats up its the sky",English
+"eu gosto de futebol porque é divertido",Portugeese
+"jeg kan godt lide at bo i min hule",Danish
+"Ik woon graag in mijn hol",Dutch
+"stavo andando su per la collina ma sono caduto",Italian
+"j'avais des frites dans la bouche, c'est sympa",French
+"Είδα μια χώρα χωρίς πόλεμο και σκλάβους πώς είσαι",Greek
+"Ich habe gesehen, wie ein Kind seine Kunstprüfung nicht bestanden hat und sich gefragt hat, was er nach dem College machen wird",German
+"എനിക്ക് ഈ സിനിമ ഇഷ്ടമാണ്, വളരെ നല്ലതാണ്",Malayalam
+"எனக்கு பிடித்த ஹீரோ படத்தை தியேட்டரில் வந்து பார்க்க வேண்டும்",Tamil
+"ho visto un film che non era né brutto né bello",Italian
+"Hey how are you",English
+"மோசமான மற்றும் நல்லதல்லாத ஒரு திரைப்படத்தைப் பார்த்தேன்",Tamil
+"ನಾನು ಕೆಟ್ಟದ್ದಲ್ಲದ ಮತ್ತು ಒಳ್ಳೆಯದಲ್ಲದ ಚಲನಚಿತ್ರವನ್ನು ನೋಡಿದೆ",Kannada
+"ik vloog in de lucht",Dutch
+"je volais dans le ciel",French
+"la vida útil de un árbol es de muchos años",Spanish
+"bir ağacın ömrü uzun yıllar",Turkish
+"i was very hungry today so i got some snacks",English
+"quel est ton nom, c'est un bon film",French
+"Wie heißt du, ist ein guter Film",German
+"я увидел человека с бензопилой, идущего на меня, поэтому я убежал оттуда",Russian
+"Ich habe einen kleinen Mann in Paris gesehen",German
+"ho visto un uomo con le braccia lunghe che teneva in braccio una ragazza",Italian
+"குடும்பமாகும்",Tamil
+"hola",Spanish
+"el",Spanish
+"brot",German
+"hey are you here",English
+"Feuer und Eis ist ein sehr gutes Gedicht",German
+"Hey, wie geht es dir",German
+"Ehi, come stai",Italian
+"ஹாய் எப்படி இருக்கிறாய்",Tamil
+"ಹಾಯ್ ನೀವು ಕಾರ್ಯನಿರತರಾಗಿದ್ದೀರಾ",Kannada
+"ഹായ് നീ ഇന്ന് തിരക്കിലാണോ",Malayalam
+"hé, es-tu occupé aujourd'hui",French
+"эй, ты занят сегодня?",Russian
+"Ik studeer aan een zeer arme universiteit",Dutch
+"Hello this a very important message for you please reply to me",English
